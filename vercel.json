@@ -1,0 +1,9 @@
+{
+  "version": 2,
+  "name": "_0x9f8a2c1d_vercel_xhttp_relay",
+  "rewrites": [
+    { "source": "/(.*)", "destination": "/api/index" }
+  ],
+  "trailingSlash": false,
+  "_obf": "strong_obfuscated_config"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "_0x9f8a2c1d_vercel_xhttp_relay",
+  "version": "1.0.0",
+  "description": "_0x3d7e9f2a_encoded_project_for_edge_runtime_relay",
+  "private": true,
+  "license": "MIT",
+  "_obf": "activated_strong_level",
+  "main": "api/index.js"
+}

@@ -4,6 +4,5 @@
   "rewrites": [
     { "source": "/(.*)", "destination": "/api/index" }
   ],
-  "trailingSlash": false,
-  "_obf": "strong_obfuscated_config"
+  "trailingSlash": false
 }
